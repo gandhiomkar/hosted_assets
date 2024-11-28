@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#hero {
+    background-image: url('assets/img/hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 100vh;
+}
+
+#skills .progress-bar {
+    background-color: #4caf50;
+    color: white;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+}
